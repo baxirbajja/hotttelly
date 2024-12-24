@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180" height="80" viewBox="0 0 180 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-family="'Playfair Display', serif" font-size="36" font-weight="300" fill="currentColor">
+    HOTELLY
+  </text>
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-family="'Playfair Display', serif" font-size="12" font-weight="300" fill="currentColor" letter-spacing="0.3em">
+    LUXURY HOTEL
+  </text>
+  <path d="M60 30L90 20L120 30" stroke="currentColor" stroke-width="0.5"/>
+</svg>
